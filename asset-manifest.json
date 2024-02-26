@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/classting/static/css/main.d86a5cc2.css",
+    "main.js": "/classting/static/js/main.f3654037.js",
+    "index.html": "/classting/index.html",
+    "main.d86a5cc2.css.map": "/classting/static/css/main.d86a5cc2.css.map",
+    "main.f3654037.js.map": "/classting/static/js/main.f3654037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86a5cc2.css",
+    "static/js/main.f3654037.js"
+  ]
+}
